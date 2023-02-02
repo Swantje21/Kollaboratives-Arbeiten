@@ -10,12 +10,12 @@
 
 [**Was ist Kollaborativ**](#3)
 
+
 [**Möglichkeiten des Kollaborativen Arbeitens**](#4)
 
 [**gemeinsames oder nebenher Arbeiten?**](#5)
 
 [**Aufgaben zum Vertiefen**](#6)
-
 
 # Einleitung
 
@@ -45,4 +45,3 @@ Analog und digital
 - Mögliches Weiterdenken? 
 
 # Aufgaben zum Vertiefen
-
