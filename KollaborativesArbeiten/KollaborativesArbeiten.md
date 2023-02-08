@@ -1,6 +1,7 @@
 
 # Kollaboratives Arbeiten
-![alt](/pic/my_materials/kollaboratives-arbeiten-2022/KollaborativesArbeiten/DALL·E 2023-02-02 10.50.21 - elephants working on computers that are connected with wires in a circle in an office as clay mation.jpg "Kollaboratives Arbeiten")
+
+ ![alt](/pic/my_materials/kollaboratives-arbeiten-2022/KollaborativesArbeiten/DALL·E 2023-02-02 10.50.21 - elephants working on computers that are connected with wires in a circle in an office as clay mation.jpg "Kollaboratives Arbeiten")
 
 
 <h3>**Inhaltsverzeichnis**</h3>
