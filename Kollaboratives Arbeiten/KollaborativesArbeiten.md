@@ -36,14 +36,15 @@ Hier kommt der Aspekt der Digitalisierung und enger noch der Digital Literacy in
 
 <h3>**"bessere" Lernmöglichkeiten durch kollaboratives Arbeiten?**</h3>
 
+{{1}}
 ***Die Frage, die man sich stellen muss, ist doch, ob man mit kollaborativem Arbeiten auch lernen kann, oder ob es lediglich zur kollektiven Sammlung von Ideen und Aufgaben dient?***
 
+{{2}}
 > Bedenkt man, dass situiertes Lernen darauf beruht, dass Lernen immer *situations- und kontextgebunden* ist, so kann man kollaboratives Arbeiten hier gezielt einsetzen.[^2](de Witt, Czerwionka 2006) Aktiviert man demnach bei den „Lernenden“ eine Motivation durch individuelles Vorwissen innerhalb einer Aufgabe, so können sich die Lernenden in der Umgebung des kollaborativen Arbeitens zusammenfinden und gemeinsam eine Lösung finden. Da zwischenmenschliche Interaktionen als Notwendigkeit des situierten Lernens verankert ist, bietet Kollaboratives Arbeiten viel potential [^3](vgl. de Witt, Czerwionka 2006). Der oft direkte Austausch mit anderen, die eigene Reflexion und Möglichkeit seinen Beitrag zu gewissen Problemen beizutragen kann hier sicherlich fördernd sein.
 Kollaboratives Arbeiten ist also nicht nur *Arbeiten*, sondern auch die Möglichkeit *zu lernen*. **Kollaborative Lernprozesse sind also ein wichtiger und positiver Bestandteil!**
 
-
+{{3}}
 <h3>**Digital oder Analog?**</h3>
-
 >Die heutige Forschung tendiert dazu, zu sagen, dass die digitale Form des gemeinsamen Arbeitens sogar positivere Auswirkungen auf den Lernprozess haben soll als analoge Gruppenarbeit [^4](Mayweg, Elisabeth: Wie der Einsatz von Digitalen Kollaboration Lernformen in der Hochschullehre gelingt - Einblicke in die aktuelle Forschung. In: Hochschulforum Digitalisierung. 05.09.2022).
 >*„Digitale Lernsettings bieten andere Möglichkeiten der Gestaltung der Transaktivität, beispielsweise durch interaktive, strukturierte und motivierende Lernumgebungen“*. [^5](Mayweg, Elisabeth: Wie der Einsatz von Digitalen Kollaboration Lernformen in der Hochschullehre gelingt - Einblicke in die aktuelle Forschung. In: Hochschulforum Digitalisierung. 05.09.2022)
 >Hinzukommend ist es natürlich auch ein großer Vorteil, dass Lernende wie eingangs beschrieben durch das digitale kollaborative Arbeiten sich zeit- und ortsunabhängig vorbereiten können.
