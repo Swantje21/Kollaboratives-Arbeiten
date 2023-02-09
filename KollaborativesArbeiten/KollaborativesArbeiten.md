@@ -1,7 +1,7 @@
 
 # Kollaboratives Arbeiten
 
- ![Elephant](/Elephant.jpg)
+ ![Elephant](/my_materials/kollaboratives-arbeiten-2022/KollaborativesArbeiten/Bilder/Elephant.jpg)
 
 
 <h3>**Inhaltsverzeichnis**</h3>
