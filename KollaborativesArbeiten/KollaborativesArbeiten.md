@@ -105,6 +105,17 @@ Nehmen wir nun einzelne Komponente dieser Definition genauer unter die Lupe, fä
 Aber wie in der Definition auch weiter gesagt wird, ist man bei **parallel aber nicht gleichzeitigem Bearbeiten von gemeinsamen Gruppenprojekten** lediglich schnell in der Teamarbeit und keinem wirklichen kollaborativen Arbeiten mehr.
 **Wie du siehst, ist die Grenze hier schwammig und bereitet der Forschung selber noch Probleme.**
 
+{{4}}
+>Eine weitere Kritik am Kollaborativen Arbeiten ist der Fakt, dass die meisten digitale Programme zum gemeinsamen Arbeiten nutzen, aber gar nicht wissen, wie diese Programme funktionieren. Hierbei sollte man sich folgende Fragen stellen: 
+In wie weit werden Daten gespeichert?
+Welche Prozesse laufen überhaupt im Hintergrund ab, während ich hier etwas schreibe? Können andere auf meine Daten zugreifen? 
+Diese Fragen können so einzelnt nicht beantwortet werden. Jedoch sollte immer beachtet werden, dass diese Fragen auf den jeweiligen Support-Seiten der Programme beantwortet werden sollten. 
+
+{{5}}
+>Ein weiterer Kritikpunkt ist das ökonomische Interesse der Programmentwickler. 
+Viele der digitalen Programme sind keine OPENSOURCE Programme und haben ein finanzielles Interesse. 
+Viele bieten kostenfreie Accounterstellungen an, sind später jedoch mit Abbonements oder Einmalzahlungen nur voll zugänglich. 
+
 # Quiz 
 
 Schau doch mal, wie viel du dir bis hierhin gemerkt hast :)
