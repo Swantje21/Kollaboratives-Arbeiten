@@ -34,6 +34,8 @@ https://app.conceptboard.com/board/npgb-eugo-gc2i-r64h-5ggq
 
 Engelhardt, Claudia/Kusch, Harald: Kollaboratives Arbeiten mit Daten. In: hrsg. v. Putnings, Markus u.a.: Praxishandbuch Forschungsdatenmanagement. Berlin/Boston 2021, S. 451-477
 
+de Witt, Claudia/Czerwionka, Thomas : Mediendidaktik. In: Studientexte für Erwachsenenbildung. 2006
+
 Mayweg, Elisabeth: Wie der Einsatz von Digitalen Kollaboration Lernformen in der Hochschullehre gelingt - Einblicke in die aktuelle Forschung. In: Hochschulforum Digitalisierung. 05.09.2022
 
 
