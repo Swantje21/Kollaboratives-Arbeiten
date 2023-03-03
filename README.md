@@ -12,6 +12,7 @@ Der Lernbaustein ist Teil einer Lernbaustein-Reihe zum Themenbereich Digital Lit
 
 Die fertige Lernbaustein-Datei KollaborativesArbeiten.md ist im Ordnerpfad kollaboratives-arbeiten-2022/KollaborativesArbeiten/Kollaborativesarbeiten.md zu finden. 
 
+Der Lehrbaustein ist auf der Grundlage des Digital Literacies Lehrbaustein von Swantje Piotrowski, Lukas Eweleit, Erik Stoffer, Penelope Stibane, Caroline Beckmann, Arnold A. Willemer aufgebaut.
 
 
 **Eingebettete Links im Baustein:**
