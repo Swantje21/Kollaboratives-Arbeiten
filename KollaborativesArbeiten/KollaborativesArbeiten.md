@@ -1,7 +1,7 @@
 
 # Kollaboratives Arbeiten
 
- ![Elephant](/KollaborativesArbeiten/Bilder/Elephant.jpg)
+![Elephant](/KollaborativesArbeiten/Bilder/Elephant.jpg)
 
 
 <h3>**Inhaltsverzeichnis**</h3>
